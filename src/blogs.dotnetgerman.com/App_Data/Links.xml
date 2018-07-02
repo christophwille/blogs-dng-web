@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<links>
+	<link>
+		<name>MSDN Online Deutschland</name>
+		<url>http://www.msdn-online.de/</url>
+	</link>
+	<link>
+		<name>VS Refactoring Essentials</name>
+		<url>http://vsrefactoringessentials.com/</url>
+	</link>
+	<link>
+		<name>Support für Entwickler</name>
+		<url>http://www.msdn-support.de/</url>
+	</link>
+</links>

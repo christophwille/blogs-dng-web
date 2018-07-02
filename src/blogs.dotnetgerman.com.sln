@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "blogs.dotnetgerman.com", "blogs.dotnetgerman.com\blogs.dotnetgerman.com.csproj", "{15C2D7D9-5214-4405-A8DA-ED2CBEC0B2A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetaFeedConsole", "MetaFeedConsole\MetaFeedConsole.csproj", "{560B4E93-51A7-4C91-976C-5C2191F5F2F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Production|Any CPU = Production|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15C2D7D9-5214-4405-A8DA-ED2CBEC0B2A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15C2D7D9-5214-4405-A8DA-ED2CBEC0B2A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15C2D7D9-5214-4405-A8DA-ED2CBEC0B2A6}.Production|Any CPU.ActiveCfg = Release|Any CPU
+		{15C2D7D9-5214-4405-A8DA-ED2CBEC0B2A6}.Production|Any CPU.Build.0 = Release|Any CPU
+		{15C2D7D9-5214-4405-A8DA-ED2CBEC0B2A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15C2D7D9-5214-4405-A8DA-ED2CBEC0B2A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{560B4E93-51A7-4C91-976C-5C2191F5F2F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{560B4E93-51A7-4C91-976C-5C2191F5F2F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{560B4E93-51A7-4C91-976C-5C2191F5F2F4}.Production|Any CPU.ActiveCfg = Release|Any CPU
+		{560B4E93-51A7-4C91-976C-5C2191F5F2F4}.Production|Any CPU.Build.0 = Release|Any CPU
+		{560B4E93-51A7-4C91-976C-5C2191F5F2F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{560B4E93-51A7-4C91-976C-5C2191F5F2F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

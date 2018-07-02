@@ -1,0 +1,57 @@
+﻿.DotNetGermanCommunityBar
+{
+	border-bottom: solid 1px black;
+	background: #eee;
+	padding: 2px 0px 2px 0px;
+	text-align: center;
+	margin-bottom: 20px;
+}
+.DotNetGermanCommunityBar a
+{
+	font-family: Verdana, Arial, Tahoma, Helvetica, Sans-Serif;
+	font-weight:normal;
+	font-size: 11px;
+	color: black;
+	text-decoration: none;
+	margin: 0px 5px 0px 5px;
+}
+.DotNetGermanCommunityBar a:hover
+{
+	color: gray;
+	text-decoration: none;
+}
+
+.error {
+	margin: 10px;
+	margin-bottom: 20px;
+	padding: 5px;
+	color: #CC0000;
+	background-color: #EEE;
+	font-family:"Courier New", Courier, monospace;
+	font-size:10pt;
+	border-left: 4px solid #CC0000;
+	overflow:auto;
+}
+
+.commandline {
+	margin: 10px;
+	padding: 5px;
+	color: #C0C0C0;
+	background-color: #000;
+	color: #C0C0C0;
+	font-family:"Courier New", Courier, monospace;
+	font-size:10pt;
+	font-weight:bold;
+	border-left: 4px solid #C0C0C0;
+}
+
+.quote {
+	margin: 10px;
+	margin-bottom: 20px;
+	padding: 10px;
+	color: #777;
+	background-color: #eee;
+	font-style:italic;
+	border-left: 4px solid #0077DD;
+}
+

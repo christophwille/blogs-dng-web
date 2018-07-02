@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<friends>
+	<friend>
+		<name>MSDN-Foren</name>
+		<url>http://social.msdn.microsoft.com/Forums/de-de/categories/</url>
+		<banner>glengamoi_logo.png</banner>
+	</friend>
+	<friend>
+		<name>itproblogs.de - die Blogs der deutschen IT Pro-Community</name>
+		<url>http://itproblogs.de</url>
+		<banner>itproblogs.png</banner>
+	</friend>
+	<friend>
+		<name>.NET Open Space Süd 2010 in Karlsruhe</name>
+		<url>http://karlsruhe.netopenspace.de/2010</url>
+		<banner>nos_badge_2010_150_148.png</banner>
+	</friend>	
+</friends>
